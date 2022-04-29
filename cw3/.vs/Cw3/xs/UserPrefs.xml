@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A8DCBB43-7609-4DE9-80CC-37918FE620EE}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/StudentsController.cs">
+    <Files>
+      <File FileName="Controllers/StudentsController.cs" Line="10" Column="6" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cw3" expanded="True">
+            <Node name="Cw3" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Cw3 PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
