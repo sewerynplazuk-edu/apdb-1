@@ -8,7 +8,7 @@ namespace Cw4
 {
     public class DatabaseService : IDatabaseService
     {
-        private static readonly string ConnectionString = "Data Source=db-mssql;Initial Catalog=s20129;Integrated Security=True";
+        private static readonly string ConnectionString = @"Server=localhost,1433; Database=Master; User Id=SA; Password=1234567890Qaz";
 
         public bool AddAnimal(Animal animal)
         {
@@ -77,8 +77,9 @@ namespace Cw4
 
                 return animals;
             }
-            catch
+            catch (Exception exception)
             {
+                Console.WriteLine(exception.Message);
                 return new List<Animal>();
             }
         }
